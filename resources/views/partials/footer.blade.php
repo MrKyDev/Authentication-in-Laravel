@@ -1,0 +1,4 @@
+</body>
+<x-footer />
+
+</html>
